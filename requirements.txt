@@ -1,0 +1,11 @@
+transformers==4.42.2
+accelerate>=0.27
+sentencepiece
+tqdm
+Pillow
+numpy
+opencv-python-headless
+ultralytics==8.2.21
+easyocr==1.7.1
+torchvision # torch is installed separately with the right CUDA wheel
+torchaudio
